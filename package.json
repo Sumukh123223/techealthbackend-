@@ -1,0 +1,14 @@
+{
+  "name": "trx-topup-service",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "tronweb": "^6.0.0"
+  }
+}
